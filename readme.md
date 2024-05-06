@@ -13,4 +13,4 @@ Kullanılan Teklonojiler
 
 - JAVASCRİPT
 
-img<src="/images/ekran-videosu.gif">
+img<src="/ekran-videosu.gif">
